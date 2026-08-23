@@ -1,17 +1,16 @@
 # Second Brain Setup
 
-Example project card demonstrating the `projects/` convention.
-
 ## Status
 
-Skeleton is in place: `CLAUDE.md` map, `MEMORY.md`, `LEARNINGS.md`, `decisions.md`, and the `notes/`, `people/`, `projects/` folders each seeded with one example file.
+Skeleton built: `CLAUDE.md` map, `MEMORY.md`, `LEARNINGS.md`, `decisions.md`, and the `notes/`, `people/`, `projects/` folders.
 
 ## Where it was paused
 
-Nothing pending — the skeleton is ready to populate. Replace the example files in each folder with real content as topics come up.
+Paused at the real content-filling stage — the folders held only placeholder example files, no actual notes/people/projects were populated yet.
 
 ## Next steps
 
--   [ ] Replace `notes/second-brain-setup.md` with real notes as they accumulate.
--   [ ] Replace `people/example-contact.md` with real contact cards.
--   [ ] Replace this file with real project entries.
+-   [ ] Populate `notes/` with real topics.
+-   [ ] Populate `people/` with real contact cards.
+-   [ ] Populate `projects/` with real project entries (this file included).
+-   [ ] Remove the placeholder example files once real content replaces them.
