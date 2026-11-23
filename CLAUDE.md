@@ -16,6 +16,15 @@ This file is the index for a flat-Markdown "second brain": a personal knowledge 
 -   `MEMORY.md` — Long-term, core info that should always stay in context.
 -   `LEARNINGS.md` — Lessons learned, worth revisiting before repeating a mistake.
 -   `decisions.md` — Audit log of decisions made and why.
+-   `inbox.md` — Quick-capture dump for unsorted items.
+
+## Templates
+
+New files start from `templates/note.md`, `templates/person.md`, or `templates/project.md`, so every file of a kind has the same sections.
+
+## Sorting the inbox
+
+When asked to sort the inbox, move each item in `inbox.md` into the right file (creating it from a template if needed), then delete the item from `inbox.md`. If an item's destination is unclear, leave it and ask.
 
 ## Naming rules
 
