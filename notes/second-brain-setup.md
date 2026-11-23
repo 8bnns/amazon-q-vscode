@@ -1,7 +1,5 @@
 # Second Brain Setup
 
-Example note demonstrating the "one topic per file" convention. Delete or replace once real notes exist.
-
 ## Summary
 
 A second brain here is just flat `.md` files in `notes/`, `people/`, and `projects/`, indexed by the root `CLAUDE.md`. No app required — any text editor works.
